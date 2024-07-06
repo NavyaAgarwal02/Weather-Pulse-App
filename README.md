@@ -1,14 +1,16 @@
-## Weather Dashboard
+# Weather Pulse App
 
-[https://Weather.navyaagarwal.vercel.app/](https://Weather.navyaagarwal.vercel.app)
+## Live Demo
+Check out the live demo [here](https://weather-pulse-nmyhxdxta-navya-agarwal-projects.vercel.app/).
 
 🌤️ A detailed light and dark mode dashboard with a complete overview of live weather conditions in the specified city. Option to toggle weather data between Celsius and Fahrenheit units. Sidebar with random major cities weather. Built using the OpenWeather API.
 
-## Light Mode
-<a href="https://Weather.navyaagarwal.vercel.app" target="_blank"><img src="https://github.com/NavyaAgarwal02/Weather/blob/main/assets/og-img.png?raw=true" style="max-width: 100%;"></a>
+## Screenshots
+![Screenshot 1](/assets/screenshot-dark.png)
+![Screenshot 2](/assets/og-img.png)
 
-## Dark Mode
-<a href="https://Weather.navyaagarwal.vercel.app" target="_blank"><img src="/assets/screenshot-dark.png" style="max-width: 100%;"></a>
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request.
 
 ## Tech
 
